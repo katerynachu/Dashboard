@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+.lang {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+
+    &__text {
+        font-family: 'Montserrat', sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 22px;
+        color: #BDBDBD;
+        transition: box-shadow 0.5s ease;
+    }
+    &__img{
+        cursor: pointer;
+        &:hover{
+            box-shadow: rgba(177, 9, 9, 0.4) 0px 2px 4px, rgba(215, 41, 41, 0.3) 0px 7px 13px -3px, rgba(225, 23, 23, 0.2) 0px -3px 0px inset;
+        }
+        &:hover ~ .lang__text{
+            box-shadow: rgba(177, 9, 9, 0.4) 0px 2px 4px, rgba(215, 41, 41, 0.3) 0px 7px 13px -3px, rgba(225, 23, 23, 0.2) 0px -3px 0px inset;
+
+        }
+    }
+}

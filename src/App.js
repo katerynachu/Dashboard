@@ -1,25 +1,20 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { Component } from 'react'
+import Header from './assets/components/header/Header'
+import Aside from './assets/components/aside/Aside'
+import Projects from './assets/components/projects/Projects.js'
+import './assets/main_scss/App.scss'
+export default class App extends Component {
+  render() {
+    return (
+      <div className='main'>
+        <Aside />
+        <div className='main__wrapper'>
+          <Header />
+          <Projects/>
+        </div>
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+      </div>
+    )
+  }
 }
 
-export default App;

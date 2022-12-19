@@ -1,0 +1,49 @@
+.heading{
+    padding: 0 39px 0 39px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 40px;
+
+    &__img{
+        cursor: pointer;
+        &:hover{
+           animation: rotate 1s ease infinite;
+        }
+    }
+}
+
+@keyframes rotate{
+    0%{
+        transform:rotate(1deg);;
+    }
+    10%{
+        transform:rotate(36deg);;
+    }
+    20%{
+        transform:rotate(72deg);;
+    }
+    30%{
+        transform:rotate(106deg);;
+    }
+    40%{
+        transform:rotate(132deg);;
+    }
+    50%{
+        transform:rotate(168deg);;
+    }
+    60%{
+        transform:rotate(202deg);;
+    }
+    70%{
+        transform:rotate(238deg);;
+    }
+    80%{
+        transform:rotate(272deg);;
+    }
+    90%{
+        transform:rotate(316deg);;
+    }
+    100%{
+        transform:rotate(360deg);;
+    }
+}

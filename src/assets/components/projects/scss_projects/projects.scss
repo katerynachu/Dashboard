@@ -1,0 +1,9 @@
+.projects{
+    margin-top: 80px;
+    display: grid;
+    grid-template-columns: repeat(3,250px);
+    column-gap: 50px;
+    row-gap: 50px;
+    grid-template-rows: repeat(3,1fr);
+    justify-content: center;
+}

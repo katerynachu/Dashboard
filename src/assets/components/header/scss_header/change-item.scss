@@ -1,0 +1,10 @@
+.change-item{
+    &__img{
+        cursor: pointer;
+        transform: scale(1);
+        transition: transform 0.3s linear;
+        &:hover{
+            transform: scale(1.5);
+        }
+    }
+}
