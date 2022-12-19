@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Dashboard/static/css/main.2d49b689.css",
+    "main.js": "/Dashboard/static/js/main.1446b941.js",
+    "static/js/787.545aecf5.chunk.js": "/Dashboard/static/js/787.545aecf5.chunk.js",
+    "static/media/Avatar.svg": "/Dashboard/static/media/Avatar.00d322491a0f940c472cfbedc980b30e.svg",
+    "static/media/lang-icon.svg": "/Dashboard/static/media/lang-icon.30798c4ada2ee287e3cd2770747e349b.svg",
+    "static/media/set.svg": "/Dashboard/static/media/set.8bf396ebc2219c0651f1e5da3f0b5c98.svg",
+    "static/media/news.svg": "/Dashboard/static/media/news.3d41acf5d429547edb93ffad12b78795.svg",
+    "static/media/calendar.svg": "/Dashboard/static/media/calendar.fd5b72db779af2a207fdc7593b9e8905.svg",
+    "static/media/logo.svg": "/Dashboard/static/media/logo.84a790c93761b2eb7bc1edda1395aaa0.svg",
+    "static/media/badge.svg": "/Dashboard/static/media/badge.41152e3f66478d9ea58f5aa95347c97d.svg",
+    "static/media/star.svg": "/Dashboard/static/media/star.8babda14f534f7b548df073c0ee240e0.svg",
+    "static/media/search.svg": "/Dashboard/static/media/search.6ab513b3af21e6265a33962d1cf1fb6c.svg",
+    "static/media/change-theme.svg": "/Dashboard/static/media/change-theme.5ffabbffd41812d5dd0567b9ae0f359d.svg",
+    "static/media/bubble.svg": "/Dashboard/static/media/bubble.f1b7bb35278a68adeb6aa5e4701a5e4e.svg",
+    "static/media/red-badge.svg": "/Dashboard/static/media/red-badge.5d70d90d2b10d2797e598fdbb4aa7424.svg",
+    "static/media/study 1.svg": "/Dashboard/static/media/study 1.5fc37aad4a1a777c332a737ba07d68da.svg",
+    "static/media/stack.svg": "/Dashboard/static/media/stack.d6fb3bc7a1c4bacbe30d16b8763b3aaf.svg",
+    "static/media/location.svg": "/Dashboard/static/media/location.287666c34352f011d08bcb9b7874e992.svg",
+    "static/media/mail.svg": "/Dashboard/static/media/mail.f2a252925e00fda7d958a2176eb0c5d4.svg",
+    "static/media/yellow-badge.svg": "/Dashboard/static/media/yellow-badge.90ca214e27dc228a622702f3ce86a278.svg",
+    "static/media/dashboard.svg": "/Dashboard/static/media/dashboard.df4fe0c78d4ea4b22bec37d668f7c8df.svg",
+    "index.html": "/Dashboard/index.html",
+    "static/media/line.svg": "/Dashboard/static/media/line.94a5841a2c75586f277cc9dfe56a843d.svg",
+    "main.2d49b689.css.map": "/Dashboard/static/css/main.2d49b689.css.map",
+    "main.1446b941.js.map": "/Dashboard/static/js/main.1446b941.js.map",
+    "787.545aecf5.chunk.js.map": "/Dashboard/static/js/787.545aecf5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d49b689.css",
+    "static/js/main.1446b941.js"
+  ]
+}
